@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1576532658 source:c:\users\dejan\desktop\c_faks\termini\domaci_zadatak_03\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"header.h"
+
+1576545006 c:\users\dejan\desktop\c_faks\termini\domaci_zadatak_03\header.h
+
+1576612578 source:c:\users\dejan\desktop\c_faks\termini\domaci_zadatak_03\source.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"header.h"
+
+1576532658 source:c:\users\dejan\desktop\c_faks\termini\dejan_bojovic_s51_19\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"header.h"
+
+1576613175 c:\users\dejan\desktop\c_faks\termini\dejan_bojovic_s51_19\header.h
+
+1576680148 source:c:\users\dejan\desktop\c_faks\termini\dejan_bojovic_s51_19\source.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"header.h"
+
+1576532658 source:c:\users\dejan\desktop\c_faks\termini\todo application\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"header.h"
+
+1576613175 c:\users\dejan\desktop\c_faks\termini\todo application\header.h
+
+1583598792 source:c:\users\dejan\desktop\c_faks\termini\todo application\source.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"header.h"
+
