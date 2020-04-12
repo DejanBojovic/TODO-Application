@@ -1,2 +1,2 @@
 # TODO-Application
-Simple TODO app written in C
+TODO console app written in C
